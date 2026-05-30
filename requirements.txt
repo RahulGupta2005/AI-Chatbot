@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+sqlite3
+groq
+langdetect
+deep-translator
